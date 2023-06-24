@@ -1,0 +1,1 @@
+{"name":"Local: day5","url":"e:\\Coding Journey\\Codestudio 45 days challenge\\day5.cpp","tests":[{"id":1685217233219,"input":"4 9\n1 2 4 7","output":"4"},{"id":1685217246377,"input":"3 1\n2 5 7","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding Journey\\Codestudio 45 days challenge\\day5.cpp","group":"local","local":true}
